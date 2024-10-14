@@ -1,5 +1,37 @@
 # @graphprotocol/client-auto-type-merging
 
+## 2.0.7
+
+### Patch Changes
+
+- [#786](https://github.com/graphprotocol/graph-client/pull/786) [`e2964ca`](https://github.com/graphprotocol/graph-client/commit/e2964cac762934288d4232c7f5c16d2ccaa4b55d) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`@graphql-mesh/transform-type-merging@^0.102.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/transform-type-merging/v/0.102.0) (from `^0.101.0`, in `dependencies`)
+  - Updated dependency [`@graphql-mesh/types@^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0 || ^0.100.0 || ^0.101.0 || ^0.102.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/types/v/0.78.0) (from `^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0 || ^0.100.0 || ^0.101.0`, in `peerDependencies`)
+
+## 2.0.6
+
+### Patch Changes
+
+- [#774](https://github.com/graphprotocol/graph-client/pull/774) [`d082d0d`](https://github.com/graphprotocol/graph-client/commit/d082d0dbcb97495089f230f483c3b75d47bb363e) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`@graphql-mesh/transform-type-merging@^0.101.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/transform-type-merging/v/0.101.0) (from `^0.100.0`, in `dependencies`)
+  - Updated dependency [`@graphql-mesh/types@^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0 || ^0.100.0 || ^0.101.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/types/v/0.78.0) (from `^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0 || ^0.100.0`, in `peerDependencies`)
+
+## 2.0.5
+
+### Patch Changes
+
+- [#767](https://github.com/graphprotocol/graph-client/pull/767) [`e8fe92b`](https://github.com/graphprotocol/graph-client/commit/e8fe92baa322c8dc1babded57499663e496af183) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`@graphql-mesh/transform-type-merging@^0.100.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/transform-type-merging/v/0.100.0) (from `^0.99.0`, in `dependencies`)
+  - Updated dependency [`@graphql-mesh/types@^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0 || ^0.100.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/types/v/0.78.0) (from `^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0`, in `peerDependencies`)
+
+## 2.0.4
+
+### Patch Changes
+
+- [#744](https://github.com/graphprotocol/graph-client/pull/744) [`ace0c61`](https://github.com/graphprotocol/graph-client/commit/ace0c61e466bf153604f050cadba7c88f19946b7) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency [`@graphql-mesh/transform-type-merging@^0.99.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/transform-type-merging/v/0.99.0) (from `^0.98.0`, in `dependencies`)
+  - Updated dependency [`@graphql-mesh/types@^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0 || ^0.99.0` ↗︎](https://www.npmjs.com/package/@graphql-mesh/types/v/0.78.0) (from `^0.78.0 || ^0.79.0 || ^0.80.0 || ^0.81.0 || ^0.82.0 || ^0.83.0 || ^0.84.0 || ^0.85.0 || ^0.89.0 || ^0.90.0 || ^0.91.0 || ^0.93.0 || ^0.94.0 || ^0.97.0 || ^0.98.0`, in `peerDependencies`)
+
 ## 2.0.3
 
 ### Patch Changes

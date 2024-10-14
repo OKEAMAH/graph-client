@@ -1,6 +1,6 @@
 {
   "name": "@graphprotocol/client-apollo",
-  "version": "2.0.3",
+  "version": "2.0.7",
   "description": "",
   "repository": {
     "type": "git",
@@ -46,7 +46,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@graphql-mesh/apollo-link": "^0.99.0",
+    "@graphql-mesh/apollo-link": "^0.103.0",
     "tslib": "^2.4.0"
   },
   "peerDependencies": {
